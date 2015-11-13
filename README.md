@@ -6,4 +6,4 @@ mmap面向行，只读的查询引擎，并且使用lrucache来缓存。
 
 增加分布式建立索引脚本 index.sh
 
-
+增加index_checker 做索引diff
